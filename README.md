@@ -1,9 +1,2 @@
 # diadrastika systhmata hxou
 3/11/2016
-ergasthrio2
-
-Server.default.boot
-(degree: 10.rand).play
-(degree: [1, 2, 3]).play
-(degree: [4.rand, 2, 3, 2.rand, 1]).play
-(degree: Array.rand(3.rrand(10), 2, 8)).play
