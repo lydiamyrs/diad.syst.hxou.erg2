@@ -1,1 +1,1 @@
-# Diadrastika Dysthmata Hxou
+# Diadrastika Systhmata Hxou
